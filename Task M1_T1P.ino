@@ -1,5 +1,5 @@
 const int pirSensorPin = 2;  // PIR sensor to digital pin 2
-const int ledPin = 5;      // LED connected to digital pin 13
+const int ledPin = 5;      // LED connected to digital pin 5
 
 void setup() {
   pinMode(pirSensorPin, INPUT);
